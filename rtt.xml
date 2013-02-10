@@ -1845,6 +1845,9 @@
         <tag>italics</tag>
         <tag>smallcaps</tag>
       </tags>
+      <tags class="block_formatting">
+        <tag>letter</tag>
+      </tags>
     </page>
     <page id="260">
       <image src="images/260.png">
